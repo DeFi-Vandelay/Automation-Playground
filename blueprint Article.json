@@ -6,7 +6,7 @@
             "module": "rss:TriggerNewArticle",
             "version": 4,
             "parameters": {
-                "url": "https://www.coingecko.com/rss",
+                "url": "https://www.cryptopanic.com/rss",
                 "maxResults": 1,
                 "username": "",
                 "password": "",
