@@ -688,11 +688,6 @@
                         "label": "Thread ID"
                     },
                     {
-                        "name": "model",
-                        "type": "select",
-                        "label": "Model"
-                    },
-                    {
                         "name": "tools",
                         "type": "select",
                         "label": "Tools",
